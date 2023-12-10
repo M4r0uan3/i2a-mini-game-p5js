@@ -4,6 +4,12 @@
 
 Ce projet est une simulation qui implique des véhicules et des obstacles interagissant dans un espace 2D. Les véhicules présentent des comportements tels que la poursuite d'une cible, l'évitement d'obstacles et la coordination les uns avec les autres. Les véhicules peuvent être contrôlés par la souris de l'utilisateur, et il existe des fonctionnalités supplémentaires telles que l'ajout d'obstacles, le basculement de l'état de la simulation et la création de nouveaux véhicules.
 
+**Demo*
+
+https://github.com/M4r0uan3/i2a-mini-game-p5js/assets/26147420/1ebf1fc5-82cb-4d1e-9d1d-2f998444f52d
+
+*
+
 **Table des matières :**
 - [Installation](#installation)
 - [Utilisation](#utilisation)
