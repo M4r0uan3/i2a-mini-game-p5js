@@ -15,7 +15,6 @@ https://github.com/M4r0uan3/i2a-mini-game-p5js/assets/26147420/1ebf1fc5-82cb-4d1
 - [Utilisation](#utilisation)
 - [Fonctionnalités](#fonctionnalités)
 - [Contrôles](#contrôles)
-- [Licence](#licence)
 
 ## Installation
 
